@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Malisha Shah. Here's a little bit about me:
+- 📚 I'm studying at the University of Washington
+- 🌱 I’m currently a part of the IBM Software Engineering Accelerate Program (Super cool and exciting projects ahead)
+- 😄 Pronouns: she/her
 <!--
 **MalishaShah/MalishaShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
