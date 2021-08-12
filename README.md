@@ -2,7 +2,7 @@
 
 My name is Malisha. Here's a little bit about me:
 - 📚 I'm studying at the University of Washington
-- 🌱 I’m currently a part of the IBM Software Engineering Accelerate Program (Super cool and exciting projects ahead)
+- 🌱 I recently completed IBM's Software Engineering Accelerate Program (Super cool and exciting projects ahead)
 - 😄 Pronouns: she/her
 <!--
 **MalishaShah/MalishaShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
